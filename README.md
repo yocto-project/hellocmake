@@ -1,0 +1,2 @@
+# hellocmake
+cmake example
